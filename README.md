@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-![1](https://user-images.githubusercontent.com/83414885/117529590-f4922980-aff5-11eb-8dd7-3566dc3f00f4.jpeg)
+
 
 You can use the [editor on GitHub](https://github.com/nallammai710/pn/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -25,7 +25,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-![1](https://user-images.githubusercontent.com/83414885/117529590-f4922980-aff5-11eb-8dd7-3566dc3f00f4.jpeg)
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
