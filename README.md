@@ -24,7 +24,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+![1](https://user-images.githubusercontent.com/83414885/117529848-b0a02400-aff7-11eb-91bf-8e6f4aa41a90.jpeg)
 
 ```
 
